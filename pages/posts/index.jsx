@@ -1,3 +1,5 @@
+import React from "react"
+
 function HomePage(){
     return(
         <>
@@ -18,3 +20,4 @@ function HomePage(){
         </>
     )
 }
+export default HomePage();
